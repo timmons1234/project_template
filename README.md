@@ -1,9 +1,8 @@
-# Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
+# Research Practicum 2018 – Research Plan
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: 
+> * Group participants names: Netterville
+> * Project Title: Investigating the skill gap in network engineering
 
 ## General Introduction
 
