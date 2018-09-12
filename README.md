@@ -1,28 +1,39 @@
 # Research Practicum 2018 – Research Plan
 
 > * Group Name: 
-> * Group participants names: Netterville
-> * Project Title: Investigating the skill gap in network engineering
+> * Group participants names: Netterville, Sterkel
+> * Project Title: Skill gap in Network/Security Engineering
 
 ## General Introduction
+In the field of Network and Security engineering, we face a lack of deeply skilled members within the field. 
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+This creates a problem when we look at high level understanding, whether that’s from the point of view of auditors, trainers, consultants, or subject matter experts. We have to find ways to educate the majority up to higher levels so that we might raise the overall skill bar. How do we get green members who have barely gotten their feet in the door up to a qualified level to generate good work. How do we elevate these new members up to higher levels? What’s a realistic time frame?
 
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
+Operationally, pay is another reason for the skill gap. Those who have cultivated high level of skill do not come cheaply. Many companies focus on outside contractors when they need high levels of expertise. These individuals come in to implement a project, or generate an audit and move on with little to no knowledge transfer. When there is, it’s hard to quantify the needs of the company’s employees. We can hypothesize about what skills will be needed post deployment and train in the direction, but without a doubt there will be areas which were missed. 
 
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
+This creates an overall problem within the industry. Companies do not hire experts long term. They expect existing employees to skill up into the various niche roles within the technology architecture. But with the do more with less  mentality so common in our industries, it means experts are constantly jumping between projects and engaging in spin up on little used skills. This could be an area where regular skill based training within simulators could help experts to maintain an edge. 
 
-(Motivation. Why is this problem interesting and relevant to the research community?)
+# Add in a security example:
 
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
+It’s hard to believe any area of computer engineering is without this problem. My colleagues working as software engineers talk about the continual change in both requirements and expectations between new software versions, languages, and feature sets. 
 
-(Contributions. An enumeration of the contributions of the senior design project)
+# Problem Statement. One paragraph to describe the problem that you are tackling.
+Network Engineering and Security engineering are hard topics to teach. This problem is compounded by a steep barrier to entry compounded through a lack of real world opportunities and aging curriculum. Potential engineers come into the field with limited book knowledge which isn't backed up by real world experience. This is even further compounded because generally you need much more understanding than your area of expertise. In example, the field of security must know how and what to secure as well as understanding the source material which needs to be secured. You need to not only known your own gear, but the protected material as well. This leads to deep multi discipline understanding in a field where knowledge is already limited for new members.
 
-(This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+# Motivation. Why is this problem interesting and relevant to the research community?
+Network and Security Engineering are two specialized areas facing skill gap in a sea of other items. Examining the problem might allow us to draw similarities between other markets and come up with solutions which work in other areas. Example cases within might cover items like training the trainer, training the auditor, training management to better understand work loads, improving seasoning for green engineers. 
+
+# Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous paragraphs, is interesting to the community, and has yet to be tackled by other researchers?
+We would like to come at this solution in three avenues:
+Examining the problem - First we need to look at why this is a problem, and how it’s gotten exacerbated. Within we will review changes in the industry as well as changes in the way learning has proceeded. Examining areas for curriculum development and finding solutions for additional training. 
+Literature review of existing material - This is not a new topic. We will look at the existing material and see what other researchers have discovered within the field. Review will focus on areas covering skill gap as well as training through simulation. 
+Simulation based training - Simulation based training is likely the fastest, most cost effective area for training. Network engineering focuses on repetition fo core concepts tempered by problem solving. Simulation gives us the opportunity to create target areas for growth which promotes seasoning of engineers. Additionally, simulation creates safe environments where engineers can make mistakes and learn without affecting customers. 
+
+## Contributions
+* Collects existing research about the skill gap in network and security engineering
+* Examines the current state of these two fields
+* Examines methods for using off the shelf simulators to enhance curriculum
+
 
 
 ## Related Work
@@ -32,7 +43,4 @@ Discuss briefly about published matter that technically relates to your proposed
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)
-
-
-
 
