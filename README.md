@@ -34,7 +34,10 @@ Simulation based training - Simulation based training is likely the fastest, mos
 * Examines the current state of these two fields
 * Examines methods for using off the shelf simulators to enhance curriculum
 
+## The focus article:
+Training network Administrators in a game like environment	https://www.ece.ucf.edu/~yuksem/my-papers/2015-jcna.pdf
 
+The goal of this paper was to propose a new way to train network administrators, which is in a game like environment called the “Network Management Game (NMG)”.  The basis for this was game like environments used in other areas such as flight simulators for pilots.  Another benefit of this type of training is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  According to the authors' traditional training methods of taking months to get certifications such as Cisco Certifications do not allow for training of custom skills related to a particular network or configuration.  The paper then goes on to describe how the NMG was implemented for the experiments.  For the experiments the goal while playing the NMG was to “maximize the network's throughput by manipulation link weights”.  Two different testings scenarios were tried:  Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain marker before they could move on).  Results showed that training on the system helped to improve a players ability to optimize a network through the manipulation of link weights.  The authors' state that future is needed to test on different scenarios to see if they would also benefit from this kind of gamification."
 
 ## Related Work
 
