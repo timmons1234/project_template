@@ -5,13 +5,13 @@
 > * Project Title: Skill gap in Network/Security Engineering
 
 ## General Introduction
-The fields of Network and Security engineering face are at a crossroads: highly skilled personnel are needed but there is a lack of personnel who possesses this depth of knowledge.
+The fields of Network and Security engineering are at a crossroads: highly skilled personnel are needed but there is a lack of personnel who possesses this depth of knowledge available.
 
-The lack of highly skilled personnel creates a problem at all levels from auditors, trainers and consultants to subject matter experts (SMEs). The issue at hand is not just in getting a few more people to the right skill level but to find a way to better educate the majority to raise the overall skill level in the fields of Network and Security Engineering. How can companies train newly hired employees (whether they have just graduated from college or are new to the fields) up to qualified levels were they can make a contribution? How can these new members be elevated to higher levels? What is a realistic time frame for this to occur?
+The lack of highly skilled personnel creates a problem at all levels from auditors, trainers and consultants to subject matter experts (SMEs). The issue at hand does not just revovlve around getting a few more people to the right skill level but to find a way to better educate the majority in the industry to raise the overall skill level in the fields of Network and Security Engineering. How can companies train newly hired employees (whether they have just graduated from college or are new to the fields) up to qualified levels were they can make a contribution? How can these new members be elevated to higher levels? What is a realistic time frame for this to occur?
 
-The salary demands of highly skilled Network and Security Engineers also contributes to this skill gap. Those who have cultivated a high level of skill demand high costs for their services. This has lead companies to contract out these highly skilled Engineers when their expertise is needed. One downside to this method, and a contributor to the skill gap, is that these outside contractors provide little to no knowledge transfer when they perform their contracted duties (implementing a project, generating an audit). Even in situations where there is knowledge transfer from these experts, their lack of knowledge on what a company’s current employee's need make this knowledge transfer lacking at best. 
+The salary demands of highly skilled Network and Security Engineers also contributes to this skill gap. Those who have cultivated a high level of skill demand high costs for their services. This has lead companies to contract out these highly skilled Engineers when their expertise is needed. One downside to this method, and a contributor to the skill gap, is that these outside contractors provide little to no knowledge transfer when they perform their contracted duties (implementing a project, generating an audit). Even in situations where there is knowledge transfer from these experts to those at the compnay who hired them, their lack of knowledge on what a company’s current employee's needs are make this knowledge transfer lacking at best. 
 
-This creates an overall problem within the industry because companies do not hire experts long term. They expect existing employees to increase their skill and knowledge levels to fill the various niche roles within the technology architecture. But with the do more with less mentality so common in our industries, it means experts are constantly jumping between projects and engaging in spin up on little used skills. This leads to the need for a new training paradigm in these industries to use simulation based training techniques to help experts maintain their knowledge level and provide more customized training to those in companies who wish to improve their skills.
+This creates an overall problem within the industry because companies do not hire experts long term. They expect existing employees to increase their skill and knowledge levels to fill the various niche roles within the technology architecture. But with the do more with less mentality so common in these industries, it means experts are constantly jumping between projects and engaging in spin up on little used skills. This leads to the need for a new training paradigm in these industries to use simulation based training techniques to help experts maintain their knowledge level and provide more customized training to those in companies who wish to improve their skills.
 
 
 
@@ -20,7 +20,7 @@ Network Engineering and Security engineering are difficult topics to teach and t
 
 
 ## Motivation
-Network and Security Engineering are two specialized areas facing skill gaps of their practitioners. Examining the problem has the potential to allow similarities to be drawn between network and security engineering and other markets which may allow training solutions that work in other markets to be applied to network and security training.  Examples of training paradigms that may be cross disciplinary are training the trainer, training the auditor, training management to better understand workloads, improving seasoning for green engineers.
+Network and Security Engineering are two specialized areas facing skill gaps of their practitioners. Examining the problem has the potential to allow similarities to be drawn between network and security engineering and other markets which may allow training solutions that work in other markets to be applied to network and security training.  Examples of training paradigms that might be cross disciplinary are training the trainer, training the auditor, training management to better understand workloads, improving seasoning for green engineers.
 
 
 ## Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous paragraphs, is interesting to the community, and has yet to be tackled by other researchers?
@@ -31,7 +31,7 @@ The first step is to determine why there is a skill gap problem and what has exa
 ## Contributions
 Collects existing research about the skill gap in network and security engineering
 Examines the current state of these two fields
-Examines methods for using off the shelf simulators to enhance curriculum
+Examines methods for using off the shelf simulators and simulation training techniques to enhance curriculum
 
 ## The focus article:
 
