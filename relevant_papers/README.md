@@ -1,13 +1,10 @@
 # Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
 
 > * Group Name: Live Free or Data
 > * Group participants names: Netterville, Sterkel
 > * Project Title: Skill gap in Network/Security Engineering
 
 ## Relevant Sources
-
-(3-5 main sources)
 
 * [Adithya, P. C., Pandey, S., Caballero, J. A., Yürür, Ö., & Moreno, W. A. (2018). Systems Engineering Framework to Design a Laboratory Course: A Case Study.](http://www.asee-se.org/proceedings/ASEE2018/papers2018/129.pdf)
 * [Arslan, E., Yuksel, M., & Gunes, M. H. (2015). Training network administrators in a game-like environment. Journal of Network and Computer Applications, 53, 14-23.](https://www.ece.ucf.edu/~yuksem/my-papers/2015-jcna.pdf)
@@ -19,7 +16,11 @@
 
 ## Review
 
-(which paper)
+The paper to be reviewed is Training network administrators in a game-like environment by Arslan et al (2015).
+
+Summary:
+
+
 (Summerize/Describe the paper in 3-5 sentences)
 (Executive summary of your whole review in 2-3 sentences)
 
