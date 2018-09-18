@@ -5,7 +5,7 @@
 > * Project Title: Skill gap in Network/Security Engineering
 
 ## General Introduction
-The fields of Network and Security engineering face are at a crossroads; highly skilled personnel are needed but there is a lack of personnel who possesses this depth of knowledge.
+The fields of Network and Security engineering face are at a crossroads: highly skilled personnel are needed but there is a lack of personnel who possesses this depth of knowledge.
 
 The lack of highly skilled personnel creates a problem at all levels from auditors, trainers and consultants to subject matter experts (SMEs). The issue at hand is not just in getting a few more people to the right skill level but to find a way to better educate the majority to raise the overall skill level in the fields of Network and Security Engineering. How can companies train newly hired employees (whether they have just graduated from college or are new to the fields) up to qualified levels were they can make a contribution? How can these new members be elevated to higher levels? What is a realistic time frame for this to occur?
 
