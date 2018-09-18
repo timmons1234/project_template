@@ -35,9 +35,9 @@ Examines methods for using off the shelf simulators to enhance curriculum
 
 ## The focus article:
 
-Title: 		Training network administrators in a game-like environment
-Authors: 	Engin Arslan, Murat Yuksel, Mehmet Hadi Gunes
-Link:		https://www.ece.ucf.edu/~yuksem/my-papers/2015-jcna.pdf
+> * Title:    Training network administrators in a game-like environment
+> * Authors:  Engin Arslan, Murat Yuksel, Mehmet Hadi Gunes
+> * Link:     https://www.ece.ucf.edu/~yuksem/my-papers/2015-jcna.pdf
 
 The focus of this paper was the presentation of a novel way to train network administrations through a game like environment called the “Network Management Game (NMG)”.  The authors’ based this approach on game like environments used in the training of other disciplines such as flight simulators for training pilots.  The reason for the investigation into a new form of training for Network administrators was that traditional training methods, such as Cisco Certifications, take months and do not allow for training custom skills related to a particular network or configuration.  Another benefit of this type of training mentioned by the authors is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  The paper describes the experimental setup that was used to test the knowledge transfer of the NMG.  During the testing phase the goal of the “game” was to “maximize the network's throughput by manipulation link weights” and this was tested in two different scenarios: Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain score before they could move on).  Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. The authors' state that future research is needed to test different scenarios to see if they would also benefit from this kind of gamification."
 
