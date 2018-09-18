@@ -1,8 +1,8 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group Name: Live Free or Data
+> * Group participants names: Netterville, Sterkel
 > * Project Title: (can be changed later)
 
 ## Relevant Sources
