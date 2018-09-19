@@ -18,18 +18,20 @@
 
 The paper to be reviewed is Training network administrators in a game-like environment by Arslan et al (2015).
 
-Summary:
+#### Summary:
 
 The focus of this paper was the presentation of a novel way to train network administrations through a game like environment called the “Network Management Game (NMG)”. The reason for the investigation into a new form of training for Network administrators was that traditional training methods, such as Cisco Certifications, take months and do not allow for training custom skills related to a particular network or configuration. Another benefit of this type of training mentioned by the authors is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  The experimental setup used to test knowledge transfer was to test two scenarios: Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain score before they could move on). Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. 
 
-(Summerize/Describe the paper in 3-5 sentences)
-(Executive summary of your whole review in 2-3 sentences)
+
+#### Executive Summary:  
+Arslan et. al present a well written paper on their implementation of a game to teach the network administration of maximizing a network's throughput.  The experimental setup section could have been explained a little clearer but would still allow the experiments to be reproduced based on the informaiton provided.  Overall a this article presents a good foundational work for this project.
 
 #### Clarity of Exposition
 The paper was written in a manner that was not overly burdened with jargon and most were explained. The authors also provided graphcis (pictures, graphs, drawings) to help further explain points.  One shortcoming I saw was that some technical acronyms were never explained such as SNMP, MPLS and IPTV.  ANother was that the experiment section got a little confusing with how the second setup was ran.
 
 #### Reproducibility
 With access to the NMG and training on how to create scenarios in this program the experiments done by Arslan et al. could be reproduced.  The authors go into detail explaining how each experiment was ran and what metrics were used.
+
 #### Rating
 3.5
 
