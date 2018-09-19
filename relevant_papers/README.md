@@ -26,15 +26,13 @@ The focus of this paper was the presentation of a novel way to train network adm
 (Executive summary of your whole review in 2-3 sentences)
 
 #### Clarity of Exposition
-
-#### Quality of References
+The paper was written in a manner that was not overly burdened with jargon and most were explained. The authors also provided graphcis (pictures, graphs, drawings) to help further explain points.  One shortcoming I saw was that some technical acronyms were never explained such as SNMP, MPLS and IPTV.  ANother was that the experiment section got a little confusing with how the second setup was ran.
 
 #### Reproducibility
-
+With access to the NMG and training on how to create scenarios in this program the experiments done by Arslan et al. could be reproduced.  The authors go into detail explaining how each experiment was ran and what metrics were used.
 #### Rating
-
-(1-5)
-(1 awful)
-(5 best thing you ever read)
+3.5
 
 #### Explanation of Rating
+I gave the article a 3.5 because overall it was a good paper that was relevant to our topic but it did get a little confusing during the parts but was a good read on how this type of gamification of network training was implemented.
+
