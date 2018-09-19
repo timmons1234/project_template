@@ -17,7 +17,8 @@
 ## Review
 
 #### Paper 1
-Training network administrators in a game-like environment by Arslan et al (2015).
+Title: Training network administrators in a game-like environment
+Authors: Engin Arslan, Murat Yuksel, Mehmet Hadi Gunes (2015)
 
 #### Summary:
 The focus of this paper was the presentation of a novel way to train network administrations through a game like environment called the “Network Management Game (NMG)”. The reason for the investigation into a new form of training for Network administrators was that traditional training methods, such as Cisco Certifications, take months and do not allow for training custom skills related to a particular network or configuration. Another benefit of this type of training mentioned by the authors is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  The experimental setup used to test knowledge transfer was to test two scenarios: Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain score before they could move on). Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. 
@@ -40,7 +41,8 @@ I gave the article a 3.5 because overall it was a good paper that was relevant t
 
 
 #### Paper 2
-Applying Human Factors Research Towards Cyberspace Operations: A Practitioner's Perspective by Lathrop et. al.
+Title: Applying Human Factors Research Towards Cyberspace Operations: A Practitioner's Perspective 
+Authors: Scott D. Lathrop, Stoney Trent, Robert Hoffman (2016)
 
 
 #### Summary:
