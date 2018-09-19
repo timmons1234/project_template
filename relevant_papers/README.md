@@ -43,8 +43,8 @@ I gave the article a 3.5 because overall it was a good paper that was relevant t
 
 
 #### Paper 2
-Title: Applying Human Factors Research Towards Cyberspace Operations: A Practitioner's Perspective 
-Authors: Scott D. Lathrop, Stoney Trent, Robert Hoffman (2016)
+> * Title: Applying Human Factors Research Towards Cyberspace Operations: A Practitioner's Perspective 
+> * Authors: Scott D. Lathrop, Stoney Trent, Robert Hoffman (2016)
 
 
 #### Summary:
