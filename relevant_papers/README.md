@@ -17,8 +17,9 @@
 ## Review
 
 #### Paper 1
-> Title: Training network administrators in a game-like environment
-> Authors: Engin Arslan, Murat Yuksel, Mehmet Hadi Gunes (2015)
+
+> * Title: Training network administrators in a game-like environment
+> * Authors: Engin Arslan, Murat Yuksel, Mehmet Hadi Gunes (2015)
 
 #### Summary:
 The focus of this paper was the presentation of a novel way to train network administrations through a game like environment called the “Network Management Game (NMG)”. The reason for the investigation into a new form of training for Network administrators was that traditional training methods, such as Cisco Certifications, take months and do not allow for training custom skills related to a particular network or configuration. Another benefit of this type of training mentioned by the authors is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  The experimental setup used to test knowledge transfer was to test two scenarios: Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain score before they could move on). Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. 
