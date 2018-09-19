@@ -29,9 +29,9 @@ To tackle the problem of skill gap in Network and Security Engineering a three p
 The first step is to determine why there is a skill gap problem and what has exacerbated the issue. This will encompass reviewing how the industry has changed and how learning has evolved. It will also encompass examining areas for curriculum development and finding solutions for additional training.  A review of the literature will delve into what has been written about the skill gaps in network and security engineering, skill gaps in general between the expectations of employers and newly graduated employees, and what has been done in this area to utilize simulation to improve training.  Simulation based training is likely the fastest, most cost effective area for training. Network engineering focuses on repetition of core concepts tempered by problem solving. Simulation gives us the opportunity to create target areas for growth which promotes seasoning of engineers. Additionally, simulation creates safe environments where engineers can make mistakes and learn without affecting customers.
 
 ## Contributions
-Collects existing research about the skill gap in network and security engineering
-Examines the current state of these two fields
-Examines methods for using off the shelf simulators and simulation training techniques to enhance curriculum
+* Collects existing research about the skill gap in network and security engineering
+* Examines the current state of these two fields
+* Examines methods for using off the shelf simulators and simulation training techniques to enhance curriculum
 
 ## Related Work
 Whose job is it to train a new employee? What skill sets should a new employee have before entering the workplace?  What is the best way to train someone on the skills needed for Network and Security Engineering?  These questions arise due to the lack of highly skilled members in the Network and Security Engineering fields.
