@@ -24,19 +24,20 @@ Authors: Engin Arslan, Murat Yuksel, Mehmet Hadi Gunes (2015)
 The focus of this paper was the presentation of a novel way to train network administrations through a game like environment called the “Network Management Game (NMG)”. The reason for the investigation into a new form of training for Network administrators was that traditional training methods, such as Cisco Certifications, take months and do not allow for training custom skills related to a particular network or configuration. Another benefit of this type of training mentioned by the authors is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  The experimental setup used to test knowledge transfer was to test two scenarios: Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain score before they could move on). Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. 
 
 #### Executive Summary:  
-Arslan et. al present a well written paper on their implementation of a game to teach the network administration of maximizing a network's throughput.  The experimental setup section could have been explained a little clearer but would still allow the experiments to be reproduced based on the informaiton provided.  Overall a this article presents a good foundational work for this project.
+Arslan et. al present a well written paper on their implementation of a game-like experience to teach the network administration task of maximizing a network's throughput.  The experimental setup section provides explanations of how the setup was tested to determien the level of knowledge but this section could have been explained a little clearer but would still allow the experiments to be reproduced based on the informaiton provided.  Overall a this article will be useful as a solid foundational work for this project.
 
 #### Clarity of Exposition
-The paper was written in a manner that was not overly burdened with jargon and most were explained. The authors also provided graphcis (pictures, graphs, drawings) to help further explain points.  One shortcoming I saw was that some technical acronyms were never explained such as SNMP, MPLS and IPTV.  ANother was that the experiment section got a little confusing with how the second setup was ran.
+The paper was written in a manner that was not overly burdened with jargon and when jargon was used it was explained. The authors also provided graphics (pictures, graphs, drawings) to help further explain different aspects such as examples of network topologies and testing scores.  Shortcomings were that some technical acronyms (SNMP, MPLS, IPTV) were never explained and that the experiment section got a little confusing when setup of the second round of experimentation was described.
 
 #### Reproducibility
-With access to the NMG and training on how to create scenarios in this program the experiments done by Arslan et al. could be reproduced.  The authors go into detail explaining how each experiment was ran and what metrics were used.
+With access to the NMG program and training on how to create scenarios the experiments done by Arslan et al. could be reproduced.  The authors go into detail explaining how each experiment was ran and what metrics were used.
 
 #### Rating
 3.5
 
 #### Explanation of Rating
-I gave the article a 3.5 because overall it was a good paper that was relevant to our topic but it did get a little confusing during the parts but was a good read on how this type of gamification of network training was implemented.
+I gave the article a 3.5 because overall it was a good paper that was relevant to our topic and provided a method that could be used ot bring up the skill level of the industry.  However, it did get a little confusing during some parts but was a good read on how this type of gamification of network training was implemented and the positive results seen.
+
 
 
 
@@ -46,13 +47,13 @@ Authors: Scott D. Lathrop, Stoney Trent, Robert Hoffman (2016)
 
 
 #### Summary:
-The focus of the article is on improvements that can be made to the cyberspace domain by applying Human Factors Research.  The authors briefly desribe the Cyberspace Mission from the Cyberspace Command perspective and what the responsibilites of the three Cyber Mission Force teams (Cyber Protection Team, Cyber Mission Team and Cybe Support Team).  A brief explanation is provided on the problem of training junior personnel.  The authors then provide their 3 recommendations for improvement of the training and cybertoosl available for use by the Cyber Command.  The recommendations invovle the creation of labs that mimic the fog of war in the cyber domain, improving measures and metrics for design requirements and realistic testing environments.
+The focus of the article is on improvements that can be made to the cyberspace domain by applying Human Factors Research.  The authors briefly desribe the Cyberspace Mission from the Cyberspace Command perspective and what are the responsibilites of the three Cyber Mission Force teams (Cyber Protection Team, Cyber Mission Team and Cybe Support Team). A brief background is given on some of the causes for the lack of a depth of knowledge in the industry and a lack of proper tools to be used. The authors then provide their 3 recommendations for improvement of the training and cybertools available for use by the Cyber Command.  The recommendations invovle the creation of labs that mimic the fog of war in the cyber domain, improving measures and metrics for design requirements and realistic testing environments.
 
 #### Executive Summary:  
-Lathrop et al provides an article that allows a reader to get a basic overview of the Cyber domain while not getting bogged down into too many details.  Unfortunatly the article gets a little too self invovled when trying to make sure the reader knows that cyberspace is not cybersecurity.  While the recommendations provided have merit, recommendations are not given for how to actually begin to implement them which becomes a shortcoming of the article.
+Lathrop et al. provides an article that allows a reader to get a basic overview of the Cyber domain while not getting bogged down into too many details.  Unfortunatly the article gets a little too self invovled when trying to make sure the reader knows that cyberspace is not cybersecurity as this is repeated several times.  While the recommendations provided have merit and coudl help to make improvements the authors chose not to provide recommendations how to begin to implement the change but instead leave this to future research.
 
 #### Clarity of Exposition
-The paper was written in a manner that was not overly burdened with jargon and concepts were explained.  The writing would not cause a reader to get lost in explanations and the few graphics provided were used effectively.
+The paper was written in a manner that was not overly burdened with jargon and concepts were adequatly explained.  The writing would not cause a reader to get lost in explanations and the few graphics provided were used effectively.
 
 #### Reproducibility
 Experiments were not performed for this paper as it was a exposition about how to improve Cyber training and tools based on the authors' expertise in the topic.
