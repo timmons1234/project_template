@@ -25,7 +25,7 @@
 The focus of this paper was the presentation of a novel way to train network administrations through a game like environment called the “Network Management Game (NMG)”. The reason for the investigation into a new form of training for Network administrators was that traditional training methods, such as Cisco Certifications, take months and do not allow for training custom skills related to a particular network or configuration. Another benefit of this type of training mentioned by the authors is that “simulations serve to compress and speed up the learning experience at a fraction of cost and risk”.  The experimental setup used to test knowledge transfer was to test two scenarios: Training without Mastery (players had a certain amount of time to complete level and once time ran out they were moved to the next) and Training with Mastery (players had to reach a certain score before they could move on). Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. 
 
 #### Executive Summary:  
-Arslan et. al present a well written paper on their implementation of a game-like experience to teach the network administration task of maximizing a network's throughput.  The experimental setup section provides explanations of how the setup was tested to determien the level of knowledge but this section could have been explained a little clearer but would still allow the experiments to be reproduced based on the informaiton provided.  Overall a this article will be useful as a solid foundational work for this project.
+Arslan et. al present a well written paper on their implementation of a game-like experience to teach the network administration task of maximizing a network's throughput.  The experimental setup section provides explanations of how the setup was tested to determine the level of knowledge but this section could have been explained a little clearer but would still allow the experiments to be reproduced based on the informaiton provided.  Overall a this article will be useful as a solid foundational work for this project.
 
 #### Clarity of Exposition
 The paper was written in a manner that was not overly burdened with jargon and when jargon was used it was explained. The authors also provided graphics (pictures, graphs, drawings) to help further explain different aspects such as examples of network topologies and testing scores.  Shortcomings were that some technical acronyms (SNMP, MPLS, IPTV) were never explained and that the experiment section got a little confusing when setup of the second round of experimentation was described.
@@ -67,3 +67,25 @@ I gave the article a 3 because it was written in an easy to read way but at time
 
 
 
+#### Paper 3
+> * Title: Teaching Advanced Concepts in Computer Networks: VNUML-UM Virtualization Tool
+> * Authors: Antonio Ruiz-Martinez, Fernando Pereniguez-Garcia, Rafael Marin Lopez, Pedro M. Ruiz Martinez, Antoni F. Skarmeta-Gomez
+
+
+#### Summary:
+The purpose of this paper was to detail a study performed by the authors where they showed that the VNUML-UM (Virtual Network User Mode) Virtualization Tool helped students learn basic network concepts such as network configuration and network routing and advanced concepts such as mobility, load balancing and high availability.  Background is provided where the authors describe current practices where physical labs with physically connected computers were needed to teach students networking and how this was not an effective use of time due to the limited number of students who could learn on the setup at one time.  The VNUML program remediates this by allowing it to be installed on a student’s personal computer where it has the ability to run virtual networks that can be configured in any scenario depending on the lesson to be taught and the student can interact by running commands to change network parameters.  The authors also state the software has the ability to be used in professional environments for network design.
+
+#### Executive Summary:  
+Ruiz-Martinez et al. provides a article on how the VNUML-UM tool can be used to more efficiently train studnets in basic and advanced networking concepts and how this tool can even be extended for use in the professional environment.  The paper then describes benefits of the tool (such as being able to be installed on a student's personal computer) and then describe the testing performed to show performance improvement.  This article will be another good basis for using simulation tools for network training.
+
+#### Clarity of Exposition
+The paper was written in a manner that was not overly burdened with jargon and concepts were adequatly explained.  The one issue with the paper was that the experiment section detailing differnet student population years could have been written in a cleare manner to allow a better comparison.
+
+#### Reproducibility
+The authors describe the testing performed and with training on how to use hteystem the testing could be repeated.
+
+#### Rating
+3.5
+
+#### Explanation of Rating
+I gave the article a 3.5 because overall it was a good paper that was relevant to our topic and provided a method that could be used ot bring up the skill level of the industry.  However, it did get a little confusing during some parts but was a good read on how this type of virutalization tool could be implemented for network training and the positive results seen.
