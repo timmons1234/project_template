@@ -209,7 +209,7 @@ Week 12 (Nov 5)  - Week 2 writing
 Week 13 (Nov 12) - Week 3 writing  
 Week 14 (Nov 19) - Editing - Eating Turkey  
 Week 15 (Nov 26) - Chill out / Go to I/ITSEC  
-Exam Period (Dec TBD)    Final Project Presentations  
+Exam Period (Dec 4)    Final Project Presentations  
 
 
 
