@@ -10,6 +10,7 @@
 * [Arslan, E., Yuksel, M., & Gunes, M. H. (2015). Training network administrators in a game-like environment. Journal of Network and Computer Applications, 53, 14-23.](https://www.ece.ucf.edu/~yuksem/my-papers/2015-jcna.pdf)
 * [Bridgstock, R. (2009). The graduate attributes we’ve overlooked: Enhancing graduate employability through career management skills. Higher Education Research & Development, 28(1), 31-44.](http://undergrad.ucf.edu/whatsnext/wp-content/uploads/2016/03/The-Graduate-Attributes-Weve-Overlooked.pdf)
 * [Lathrop, S. D., Trent, S., & Hoffman, R. (2016). Applying human factors research towards cyberspace operations: a practitioner’s perspective. In Advances in Human Factors in Cybersecurity (pp. 281-293). Springer, Cham.](https://pdfs.semanticscholar.org/8f98/52b143d9e2f01cab64f20aa0497202144510.pdf)
+* [Markes, I. (2006). A review of literature on employability skill needs in engineering. European Journal of Engineering Education, 31(6), 637-650.] (https://www.tandfonline.com/doi/abs/10.1080/03043790600911704)
 * [Ruiz-Martinez, A., Pereniguez-Garcia, F., Marin-Lopez, R., Ruiz-Martínez, P. M., & Skarmeta-Gomez, A. F. (2013). Teaching advanced concepts in computer networks: Vnuml-um virtualization tool. IEEE Transactions on Learning Technologies, 6(1), 85-96.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6409361)
 
 
@@ -89,3 +90,30 @@ The authors describe the testing performed and with training on how to use hteys
 
 #### Explanation of Rating
 I gave the article a 3.5 because overall it was a good paper that was relevant to our topic and provided a method that could be used ot bring up the skill level of the industry.  However, it did get a little confusing during some parts but was a good read on how this type of virutalization tool could be implemented for network training and the positive results seen.
+
+
+
+#### Paper 4
+> * Title: A review of literature on employability skill needs in engineering
+> * Author: Imren Markes
+
+
+#### Summary:
+The purpose of this paper was provide information on a skill gap in engineering positions in the UK and a lack of employability of engineering students due to current (as of 2006) institutional academics. A main point of the article was that earing a degree, which is a traditional marker for showing disciplien specific skilsl, was not as important to employers as “transferable skills  and experience”.  The author also states that “the training needs of industry and commerce are not being met by colleges as few colleges conduct surveys of local business needs and little attention is paid to skill gaps in the national economy”.  The author posits that more collaboration is needed between academia and industry to create curriculum and teach skills that are more important to employers than just the discipline specific skills that are currently focused upon (well as of the writing of the article).
+
+#### Executive Summary:  
+
+Markes provides a paper with the overarching theme that more collaboration is needed between academia and industry to create curriculum and teach skills that are more important to employers than the discipline specific skills that are currently focused upon at the university level.
+
+
+#### Clarity of Exposition
+The paper was written in a manner that was not overly burdened with jargon and when jargon was used it was explained  The one issue with the paper was that the amount of tables placed in the article took away from the flow while reading and could make a reader lose the points being made.
+
+#### Reproducibility
+Experiments were not performed for this paper as it was a exposition about the difference in the skills taught at a university and those desired by employers.
+
+#### Rating
+3.0
+
+#### Explanation of Rating
+I gave the article a 3.0 because overall it was a good paper that was relevant to our topic and provided background into causes for skill gaps in engineering that can be applied to Network Engineering.  
