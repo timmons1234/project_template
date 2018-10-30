@@ -223,3 +223,23 @@ Comprehensive Literature Review
 
 Paper on Skill Gap in Network Engineering
 
+
+## References
+
+APA Citation
+
+> * Adithya, P. C., Pandey, S., Caballero, J. A., Yürür, Ö., & Moreno, W. A. (2018). Systems Engineering Framework to Design a Laboratory Course: A Case Study.
+> * Andrews, J., & Higson, H. (2008). Graduate employability,‘soft skills’ versus ‘hard’business knowledge: A European study. Higher education in Europe, 33(4), 411-422.
+> * Arslan, E., Yuksel, M., & Gunes, M. H. (2015). Training network administrators in a game-like environment. Journal of Network and Computer Applications, 53, 14-23.
+> * Boden, R., & Nedeva, M. (2010). Employing discourse: universities and graduate ‘employability’. Journal of Education Policy, 25(1), 37-54.
+> * Bridgstock, R. (2009). The graduate attributes we’ve overlooked: Enhancing graduate employability through career management skills. Higher Education Research & Development, 28(1), 31-44.
+> * Celikoglu, H. B., Haddad, J., Han, K., & Lebacque, J. P. (2018). Special Issue on Advances in Modeling, Simulation and Optimization of Dynamic Network Traffic. Transportation Research Part C: Emerging Technologies, 95, 442-444.
+> * Joyce, D. L., Lahr, B. D., Maltais, S., Said, S. M., Stulak, J. M., Nuttall, G. A., & Joyce, L. D. (2018). Integration of simulation components enhances team training in cardiac surgery. The Journal of thoracic and cardiovascular surgery, 155(6), 2518-2524.
+> * Lathrop, S. D., Trent, S., & Hoffman, R. (2016). Applying human factors research towards cyberspace operations: a practitioner’s perspective. In Advances in Human Factors in Cybersecurity (pp. 281-293). Springer, Cham.
+> * Markes, I. (2006). A review of literature on employability skill needs in engineering. European Journal of Engineering Education, 31(6), 637-650.
+> * Mason, G., Williams, G., & Cranmer, S. (2009). Employability skills initiatives in higher education: what effects do they have on graduate labour market outcomes?. Education Economics, 17(1), 1-30.
+> * Mehrotra, S., Gandhi, A., & Sahoo, B. K. (2013). Estimating India’s Skill gap on realistic basis for 2022. Economic and Political Weekly, 48(13), 102-111.
+> * Nair, C. S., Patil, A., & Mertova, P. (2009). Re-engineering graduate skills–a case study. European journal of engineering education, 34(2), 131-139.
+> * Ramadi, E., Ramadi, S., & Nasr, K. (2016). Engineering graduates’ skill sets in the MENA region: a gap analysis of industry expectations and satisfaction. European Journal of Engineering Education, 41(1), 34-52.
+> * Ruiz-Martinez, A., Pereniguez-Garcia, F., Marin-Lopez, R., Ruiz-Martínez, P. M., & Skarmeta-Gomez, A. F. (2013). Teaching advanced concepts in computer networks: Vnuml-um virtualization tool. IEEE Transactions on Learning Technologies, 6(1), 85-96.
+> * Saunders, V., & Zuzel, K. (2010). Evaluating employability skills: Employer and student perceptions. Bioscience education, 15(1), 1-15.
