@@ -68,4 +68,55 @@ Conclusion
 The field of Network Engineering is in need of new ways to train current and future practitioners to be able to maintain skill levels, increase skills levels and train on new technologies. Current classroom based teacher centered training with limited interaction by students does not lend itself to the changing networking field and is why simulation based techniques have been proposed. Through the use of virtual environments or gamification a training system that allows custom scenarios to be developed, instructor defined difficulty and training in a risk free space can be created to allow for more immersive and retentive training. SDN is a new networking technology that would benefit from training in a virtual/educational game environment. Care must be taken when creating these education games to ensure the game aspect does not outweigh the knowledge transfer but when correctly gaming can provide a novel way to learn material that is more engaging and even fun than traditional training.
 
 
+## Research Questions
+
+Why is there a skill gap?
+
+How do we train new engineers? How do we increase the skill level of current engineers?
+
+How do we create an environment that strengthens new candidates prior to entering the workforce?
+
+
+## Research Method
+
+Review the existing research and examine the current market
+
+Review off the shelf software and simulators as viable training material
+
+Examine future technologies as solutions to bridge the skill gap
+
+
+## Hypotheses
+
+There is a mismatch between the skills needed in the workplace and the skills taught to workforce candidates (i.e. students, those changing careers etc.)
+
+Purpose driven curriculum allows engineers in the workforce to maintain and improve their skills
+
+The implementation of future network technologies (i.e. SDN) changes the skills needed in the Network Engineering workforce.
+
+
+## Preliminary Framework/Setup
+
+
+## Plan of Attack for rest of Semester
+
+1) Review more literature 
+2) Organize and write results
+3) …
+4) Profit
+
+Week 11 (Oct 29) - Week 1 writing
+Week 12 (Nov 5)  - Week 2 writing
+Week 13 (Nov 12) - Week 3 writing
+Week 14 (Nov 19) - Editing - Eating Turkey
+Week 15 (Nov 26) - Chill out / Go to I/ITSEC
+Exam Period (Dec TBD)    Final Project Presentations
+
+
+
+## Deliverables
+
+Comprehensive Literature Review
+
+Paper on Skill Gap in Network Engineering
 
