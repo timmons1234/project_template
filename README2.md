@@ -204,7 +204,7 @@ Conclusion
 3) …
 4) Profit
 
-Week 11 (Oct 29) - Week 1 writing
+Week 11 (Oct 29) - Week 1 writing**
 Week 12 (Nov 5)  - Week 2 writing
 Week 13 (Nov 12) - Week 3 writing
 Week 14 (Nov 19) - Editing - Eating Turkey
