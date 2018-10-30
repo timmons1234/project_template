@@ -109,6 +109,7 @@ The implementation of future network technologies (i.e. SDN) changes the skills 
 
 ## Preliminary Framework/Setup
 
+[Skill Gap Framework](https://docs.google.com/document/d/1qnykA4bX6GR00LDDm3unroJ_Sqh_qg1R_ERAKJb6xvc/edit)
 
 Introduction
 
