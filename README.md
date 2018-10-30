@@ -9,6 +9,10 @@
 
 The skill gap in Network Engineering
 
+## Purpose Statement
+
+The purpose of this study is to understand factors that have contributed to the skill gap in Network Engineering for individuals new to the field (i.e. such as those just graduating from a university) and those currently working in the field as well as to determine if Modeling and Simulation training techniques can contribue to decreasing the skill gap.  
+
 ## Introduction
 
 The fields of Network and Security engineering are at a crossroads: highly skilled personnel are needed but there is a lack of personnel who possesses this depth of knowledge available.
