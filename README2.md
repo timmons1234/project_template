@@ -161,10 +161,10 @@ No more back of house engineers
 > * ◦Technology use to convey high level concepts as a bridge builder
 >> * Visio, documentation, etc.
 
-•The shift to pure automation
+The shift to pure automation
 > * Investigate if we should retool. Green engineers could be trained directly into next-gen networking
 > * Does this create a new skill gap within the existing workforce? 
->. * ◾Ex bare metal to vmware, analog phones to voip
+> * Ex bare metal to vmware, analog phones to voip
 > * How do you retrain old engineers?
 
 Next Gen
@@ -180,8 +180,8 @@ New software gives options on how to handle traffic
 
 SDN is the future. reduces man power, gives further insight into application, provides built in automation
 > * SDN reduces knowledge needed for the field, green engineers learn simpler concepts and start work faster
-> * ◦Does this create a new skill gap where workers lose needed engineering skills
-> * ◦If so, can we define tiered service based on knowledge and experience? How do we bridge the gap to allow tier transfer? 
+> * Does this create a new skill gap where workers lose needed engineering skills
+> * If so, can we define tiered service based on knowledge and experience? How do we bridge the gap to allow tier transfer? 
 
 Role of next gen technology in relation to hostile actors
 > * Security focus on automated threat posturing
