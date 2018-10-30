@@ -80,7 +80,7 @@ The purpose of this paper was to detail a study performed by the authors where t
 Ruiz-Martinez et al. provides a article on how the VNUML-UM tool can be used to more efficiently train studnets in basic and advanced networking concepts and how this tool can even be extended for use in the professional environment.  The paper then describes benefits of the tool (such as being able to be installed on a student's personal computer) and then describe the testing performed to show performance improvement.  This article will be another good basis for using simulation tools for network training.
 
 #### Clarity of Exposition
-The paper was written in a manner that was not overly burdened with jargon and concepts were adequatly explained.  The one issue with the paper was that the experiment section detailing differnet student population years could have been written in a cleare manner to allow a better comparison.
+The paper was written in an easy to read manner and concepts were adequatly explained.  The one issue with the paper was that the experiment section detailing differnet student population years could have been written more clearly to allow for better comparison of the methods.
 
 #### Reproducibility
 The authors describe the testing performed and with training on how to use hteystem the testing could be repeated.
