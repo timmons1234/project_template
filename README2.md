@@ -79,6 +79,8 @@ How do we create an environment that strengthens new candidates prior to enterin
 
 ## Research Method
 
+Qualitative Research Method Approach
+
 Review the existing research and examine the current market
 
 Review off the shelf software and simulators as viable training material
@@ -97,92 +99,96 @@ The implementation of future network technologies (i.e. SDN) changes the skills 
 
 ## Preliminary Framework/Setup
 
+
 Introduction
 
-The field of Network Engineering, which encompasses roles of network administrators, network security specialists and network architects, is at a crossroad where current training approaches are failing to meet industry needs.  The failure is not only at the Subject Matter Expert (SME) level but also includes auditors, trainers and consultants.  The issue at hand is more than just training a few more individuals to the SME level but goes deeper into how network engineers are trained from the entry to expert level. There is a need for a better way to train new employees, a better way to educate the majority in the industry to raise the overall skill level, and a better way to educate at institutions of higher education. Some questions to be asked are: How can companies train newly hired employees (whether they have just graduated from college or are new to the fields) up to qualified levels where they can make a contribution? How can these new members be elevated to higher levels? What is a realistic time frame for this to occur?
-This paper will delve into reasons for this skill gap in the network engineering field, current training paradigms for network engineering students, ways that this training can be improved with Modeling and Simulation techniques and will provide an example of a new networking technology and how M&S techniques could be implemented in this training.
 
+General
 
-Current Skill Gap
+Why there's a skill gap
+> * Education gap - How do we educate people about these concepts
+> * Skill development - How do we cultivate talent
+> * Technical barrier to entry – How do we provide technical resources
 
-Currently there’s an educational gap between what is taught and what we need to know as network engineers. Existing curriculum within Engineering focuses more on existing fields such as structural, electrical or civil engineering. These areas have been around for fifty plus years while Networking is more recent. Additionally, these fields could be considered more static while networking more fluid in nature. As the field matures we’re in constant flux of the concepts we use to build networks. Due to this, it’s hard to teach past practices to new members. With the rapid evolution, you also face the issue of creating skills which are obsolete by the time they’re in practice. 
+Breadth of general knowledge needed, vs depth of knowledge in specific areas 
+> * knowing supplemental information about Linux vs knowing the specifics of the application to support a system you don't run
+> * Unskilled management and how we integrate skilled engineers 
+>> * managers who are either non-technical, or have aging skills need an understanding of deeply technical material in order to manage well
+> * Cross roles between technical and administrative
 
-Skill development is another core issue. The field lacks standardization between each of the vendors. As such we teach towards the current technology rather than the concepts of the field. For example, we could teach the concept of layer two domains, and how to create viable segments based on the current application. Instead, current curriculum focuses on how to make these changes based on different vendors. Juniper has different commands and requirements than Cisco, compared to how Extreme creates the same thing. Overall the field needs to create standards for how they generate overlapping concepts and train individuals in these areas. 
-
-Another aspect building on the skill gap is the lack of access new learners have to the technology. The major vendors in networking provide expensive equipment meant to occupy core infrastructure segments within an enterprise network. Depending on the technology these items could be multi thousand dollar switches designed for maintenance closets, to multi million dollar core routing devices meant to anchor an enterprise. These items are outside the reach of many learners, but also outside the reach of institutions trying to train based on the material. When you factor in multi-vendor, and multi-device needed for implementation you create segments outside the reach of many core businesses. Vendors need to work to create opportunities to put the equipment in the hands of new learners to help propagate learning. 
-
-
-Breadth of Needed Knowledge
-
-Network engineering requires specialized knowledge about the needs of the network. Engineers build specialized networks for custom designs based on the requirements of the application. Because of this, they need an in depth knowledge of the applications in place. This requires engineers to dig deeper into the applications within their environment. This falls in line with other engineering disciplines. For example, a civil engineer needs to understand the usage of the environments they build for, as a safety engineer needs to understand the processes, procedures and risks involved within their purview. 
-
-This falls into two direct categories: Infrastructure and application.
-
-Infrastructure requires building basic components based on the type of area needed. We build data center networks differently from residential networks. The former requires microsegmentation to secure individual tenants while the latter requires dense high speed access. When we look at the needs of datacenters we use higher grades of equipment to limit oversubscription and focus needed bandwidth for critical applications. Each port is expensive to place but supports expensive applications. Within residential we focus on creating a dense port count needed to cover every available potential network needs. Covering everything from wireless access points, to smart tvs to network attached refrigerators. These ports have a base cost, but the application isn’t critical and can afford over subscription. 
-
-When we talk about over subscription we define the level of necessary bandwidth we want to provide to all applications. This number is generally higher than the total capacity of all devices. We can plan for this because in lower cost ports, we plan for lower percentages of needed bandwidth. For example we provide 48 1 gig ports. To generate 1:1 subscription rates we would need a total in excess of 48 gigs of uplink traffic. This would be a realistic number if we expected these devices to generate continual traffic at all times. When we monitor usage, we would find these devices likely generate 20% average traffic with some users spiking higher than the average. For most residential environments we look to provide 8:1 at the port level, and 4:1 at the distribution level. For the latter, we look at providing 10 gigs of bandwidth for ever fully populated switch. 
-
-Engineers must also understand the requirements of the applications run within the environment. For security purposes, we might look at how applications talk to each other. Web servers send and receive traffic to database servers. Applications might need to write to outside sources, but be limited to who has those permissions either through AAA (authentication, authorization, accounting) or through location services. We either look towards the user having a valid and authorized account, or we limit the locations we allow updates from. For example, we might look at providing camera feeds to a consolidating server. This happens through a specific account build into the camera. We limit who has access to those feeds through software which validates the network the user comes from, as well as their user account. 
-
-We also look at applications for their requirements. Camera traffic has different needs than voice traffic. The first sends a lot of packets to a receiving server which needs high bandwidth but no other features. The other is strict about characteristics of the network stream such as total bandwidth, loss, and the order the packets arrive in. Equally, in the residential market we look at traffic from Internet of Things (IoT) devices differently than streaming devices. IoT applications generally feed asynchronous data back to a central location, like temperature gauges out to aggregation points, or outdoor lighting receiving command and control services from a central point. Streaming devices such as smart tvs might need high bandwidth to perform at the highest level, but have fallback capabilities in place for when conditions aren’t optimal. 
-
-Network engineering is a highly technical role which is outside the scope of many workers. Engineers use highly specialized and technical knowledge to create solutions to common and specialized problems. As with the supplemental knowledge needed, it’s common for specialized knowledge to be developed for a projects that isn't shared between other engineers. This can include managements and their function within the business unit. Engineering managers need to be able to adapt to the changing workload of those underneath them and learn the requirements needed to improve their job situation. Most managers function in a purely administrative role which is at cross purposes to the work of engineers. A good manager needs to turn requirements of their technical employees into procedures which remove barriers to common work issues, potentially without the specialized knowledge needed for the project. 
-
-
-Cultivating an Engineer Mentality
-
-As engineers we cannot solely focus on our area of expertise. Networks create the backbone and physical infrastructure which ties together business critical applications. Network engineers equally work as the middlemen and women who create the programming needed to tie these areas together. It is important that Engineers take a holistic view of the work taking place around them. This creates a unique environment to take multiple views of a project and the requirements needed. When you take a holistic view, it gives the opportunity to create additional links and scaffold inter connectedness. 
-
-Another important action within the Engineer toolbox is taking a deeper understanding of the workflow and process. Engineers fill an important role within the procedure, but are a single component of a larger process. It is important as engineers to look at the other areas and look at their process. Frequently by looking deeper into other departments’ workflow we can modify our own process to be more efficient. 
-
-For example, it is common for a customer to lack a deeper understanding about what they want. This could be due to lack of knowledge at the low process level, or at the high overall integration level ex: how the application works, vs how the application integrates within the total hierarchy. By digging deeper into the process you might find key areas of integration which will improve the overall process. An application owner might want a network to provide application connectivity, but might not understand their application requires resiliency. Providing the base level of support might have a later repercussion of costly redesign or total failure of the project. By digging deeper into the workflow, and engineer can provide the right level of technical expertise to propose the correct solution for the problem. 
-
-Precision of action is another important aspect of a good engineer. Generally the scope of an engineering change involves a large impact on our customer base. Changes to a service provider infrastructure might impact all customers with a service area. While changes within a hospital might impact the care of critical patients. Engineers need to consider the impact of their choices based on those impacted. Engineers must strive for precision of action within all changes. For example, Civil engineers work with critical infrastructure such as bridges. If remodeling needs to take place, you plan your work, then validate that work against other prescribed changes in the area. They will validate the changes needed apply to the actions they wish to implement. A failed bridge might just inconvenience traffic, but might also create a dangerous situation for human lives. It is critical to make sure any changes made are precision in their implementation. 
-
-As engineers, we must strive to limit mistakes within operating categories. We achieve this through detailed planning followed by peer review. The idea behind these procedures is to create a meta level were mistakes are safe to make. Mistakes are a key point within the learning process. When concepts are new, it is common to create issues either though lack of action or confusion between basic concepts. Detailed planned action encourages an engineer to work through the problem prior to the change. This way they can think through the detailed steps needed to create a change with limited mistakes. Peer review follows this practice by having another engineer review the change and look for any mistakes or actions that were left out. We generate the trade off of additional time to help reduce errors. 
-
-An additional method is testing changes within a safe environment. This environment could be virtual by mimicking the real environment within software, or we might duplicate the real environment in a development area. Through testing changes we can validate if our actions work as intended, and have the expected outcome. This area is a prime candidate for the works of modeling and simulation. 
-
+Cultivating an engineer mentality
+> * Encouraging new engineers to take a holistic, deeper view of the work
+> * Cultivating a deeper understanding of the workflow and process
+> * Cultivating precision of action and avoiding live mistakes
 
 How current education does not support filling these roles
-
-Prospective network engineers gain proficiency in Engineering through two main avenues: professional certification, and coursework within higher education.These two avenues are sometimes combined either through a technical academy which offers certification as part of a structures degree, but frequently these are tackled on their own.
-
-Professional certification is the most direct route for many engineers. Companies such as Cisco or Juniper offer structured coursework and certification exams meant to validate skills and capabilities related to their products. These certifications set out skill levels which are validated by learning concepts and then passing exams. 
-
-Certification faces two main disadvantages: exam cycles cannot keep pace with current technology and exams do not correlate to core concept foundations. The primary issue with certification is the length of a certification cycle. Textbooks need to be written or updated, tests need to reflect the current state of the exam, and students need time to learn the material in order to pass the exam. This can create exams which are initially outdated before a learner even begins the process. The secondary issue is related to how the certification exams take place. Generally these are focused on the core concepts related to a companies products. These exams validate use of the product rather than core concepts. For example, learners might focus on how to implement security rules on a brand specific firewall rather than why firewall rules strengthen a security posture. 
-
-While this represents the majority of exams, it doesn't reflect all areas. Certifications such as CISSP focus on policy related to security and give candidates a solid foundation for approaching all vendors equally. The main issue here is they require foundational requirements which necessitate other professional certifications. On the opposite side of this, certifications such as NET+ and SECURITY+ are not focused enough to qualify as valid for most employers. 
-
-Cost can also be a barrier to entry for some candidates. Frequently companies offer to pay for exams to recertify, but it creates a chicken egg condition when pre-industry candidates cannot afford initial certification. 
-
-Educational curriculum is another avenue of entry for many candidates. Traditional degrees such as computer science of electrical engineering offer information related to network engineering but are not focused enough on the skills needed by the industry. Educational facilities do offer programs related to the industry, but they lack the depth needed support the required skills. 
-
-Educational curriculum have the same problems as certification exams, but at a higher rate. Exam curricula changes with the technology on a tighter schedule, but still lags behind. Educational curriculum is created based on a concept, but rarely adapted forward. In example, courses at UCF still teach concepts which are more than ten years old. When this is added to the general life cycle learners take to complete a degree, they enter the job market with skills which are woefully outdated. Worse is that many learners have an expectation they’ll graduate with the skills needed to immediately enter the workforce. 
-
-Finally, employers focus on the wrong criteria for good employees. When job requirements exist, they have rarely been updated towards the current needs. This is in part due to lack of understanding of the field, or lack of efforts to remain current on the implemented technology. It is common for HR employers to require five years of experience for a technology which has only been in the field for two years. It is also common to require many years of experience which outstrips the base requirements for a junior level positions. 
-
-EX: Five years for a junior position, or 2 years for a senior. In both cases the years of experience do not fall in line with the required skills needed. 
-
-This is generally also trumped by a single critical aspect: pay scale generally dictates the candidates which apply for a job. This position required a deep breadth of knowledge needed to fill the role. We have high expectations for the qualities desired by candidates, and as such should pay accordingly. Many times companies set the pay scale at a level too low to attract viable candidates. Many enterprise customers expect to grow employees within the field advancing from green to seasoned over years of experience. The reality there is many candidates come in with green skills, advance their knowledge on the job and are never set to acceptable levels. They look elsewhere for pay scales which validate the experience they’ve earned and move on to other positions, which perpetuates the cycle. 
-
+> * Certifications focus on outdated concepts, tests knowledge not needed for workers
+> * Educational curriculum does not keep pace with industry standards, teaches students concepts which will be overwritten by tribal process
+> * Employers focus on the wrong concepts for good engineers
+>> * Unrealistic years of experience, certifications which are outside the reach of new workers, limited stratification of available positions
 
 How we bring more people into the field
+> * Technical academies
+>> * Cisco academy – feeder process to TAC
+> * Expos, live demonstrations, reducing barrier to entry, 
+>> * Companies sponsored training material (cisco learning network)
+> * Paid internships, junior positions, and direct from college placement
+>> * Focus on junior positions where we encourage mentorship and active learning
 
-Part of eliminating the skill gap is finding a way to bring more interest into the field. We need to establish pathways to bring both interest and additional members into the career. There are organizations which already have a vested interest in supporting the career which can be further levered. Additionally, we can find ways to build interest in potential learners and help reduce the barrier to entry to the field. Finally, creating additional positions within the field will encourage interest and foster skill building. 
+Network
 
-Technical academies present the highest rate for industry adoption. They can range from official industry learning organizations, to sponsored curriculum, to integration within primary and secondary schools. Technical academies offer the ability to train new members on the importance of the technology as well as the core concepts needed to be good members of the industry. 
+Developing CORE skills. (green engineers come in with little to no skills)
+> * Assessing core skills, green engineers come with little to no skills. 
+>> * How do we define where to start?
+> * Simulation as a learning medium
+>> * Simulated learning environments with learning tasks
+> * Simulators for development and validation of core concepts
+>> * Simulators as design validation
 
-Cisco is an example of this type of learning solution. They feature a branch of the company called Cisco Academy which is a learning ecosystem that starts in sponsored high schools. Cisco creates and posts the curriculum to vetted schools. These can operate within high schools who have the basic technical capabilities to support the technology. From there students are recruited forward into colleges who feature the Cisco Academy programs. At the college level these programs focus on existing and next generation technologies so learners come out with skills relevant to the current generation. Finally, Cisco recruits members from these programs directly into their TAC support ecosystem. These members operate on current and next gen technologies and transition within the company to large more prominent projects. 
+Developing a curriculum from apprentice to journeyman 
+> * Establishing markers for advancement
+> * Define areas for mentor / mentee relationships
+> * How do we support an apprentice type model when there's already a deep workload?
 
-Expos create an opportunity to create buzz for the industry. Trade style shows give an opportunity to show off available products. While these are generally slated towards those in the field, they could also be good opportunities to show off why new members might want to take part in the field. Trade shows could create available membership and attendance for members of technical schools, college courses, and self study. By encouraging learners to attend they can help mold the direction these students learn in, or create areas where learners might want to focus. In example, showcasing new wireless technology and how it fits within the enterprise might encourage new learners to work towards expertise in those areas. 
+The continual shifting paradigm of networking
+> * How you support continual education to match continual paradigm shift?
+> * Clear markers for technology support and adoption
+> * Are these roles rolled into the existing engineer or do they facilitate creating new teams?
 
-Companies need not only focus on large demonstrations for their products. By creating learning resources within their sites they also can help to foster education and adoption by potential learners. VMware is an example company which does a good job at creating user accessible examples of their product. Their website features an area called Hands-on Labs where they leverage the technology they’re selling to create user repeatable exercises which teach core concepts. While these labs focus on skills needed for VMware products, they also educate towards changes in technology and industry standards. This overall reduced barrier of entry by providing both new learners as well as existing professionals sandbox areas where they can learn new skills or advance existing. 
+No more back of house engineers
+> * The role of network engineer has become more social over time
+> * Tempering the business needs against deep technical aptitude
+> * ◦Technology use to convey high level concepts as a bridge builder
+>> * Visio, documentation, etc.
 
-Paid internships represent a way to transition learners directly into the job market. This creates a low level position directly created for learners who are within some sort of learning process. It also creates a mentor relationship between those who are in the industry and who who wish to be a part of it. Internships can transition directly into specially created college placement positions. These low-level junior positions might be a direct stepping stone which functions as a stepping stone between interns and entry level positions. 
+•The shift to pure automation
+> * Investigate if we should retool. Green engineers could be trained directly into next-gen networking
+> * Does this create a new skill gap within the existing workforce? 
+>. * ◾Ex bare metal to vmware, analog phones to voip
+> * How do you retrain old engineers?
 
-This type of skill tiered position is available in other industries such as electricians, carpentry or mechanics. New members come in as apprecantieces as part of their technical training, but through experience and dedication transition up through the ranks into higher paying and more technical positions. Networking engineering could also benefit from this by creating additional jobs, but also tiering the level of responsibility as learners transition up to skilled engineers.
+Next Gen
+New technology encourages new ways to build our electronic systems
+> * Revamping old designs to take on new concepts
+> * Current curriculum teaches concepts which do not match new concepts
+> * New technology forces engineers into new hybrid roles
 
+New software gives options on how to handle traffic
+> * Analytic software gives deeper view into existing traffic
+> * Understanding traffic flow leads to better design
+> * Push towards automation reduces need of the cognitive load on workers
+
+SDN is the future. reduces man power, gives further insight into application, provides built in automation
+> * SDN reduces knowledge needed for the field, green engineers learn simpler concepts and start work faster
+> * ◦Does this create a new skill gap where workers lose needed engineering skills
+> * ◦If so, can we define tiered service based on knowledge and experience? How do we bridge the gap to allow tier transfer? 
+
+Role of next gen technology in relation to hostile actors
+> * Security focus on automated threat posturing
+> * Next gen appliances look at client identification and heuristics
+> * Analytic software identifies breeches faster than before
+
+Conclusion
 
 
 ## Plan of Attack for rest of Semester
