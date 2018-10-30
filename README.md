@@ -231,9 +231,11 @@ APA Citation
 > * Adithya, P. C., Pandey, S., Caballero, J. A., Yürür, Ö., & Moreno, W. A. (2018). Systems Engineering Framework to Design a Laboratory Course: A Case Study.
 > * Andrews, J., & Higson, H. (2008). Graduate employability,‘soft skills’ versus ‘hard’business knowledge: A European study. Higher education in Europe, 33(4), 411-422.
 > * Arslan, E., Yuksel, M., & Gunes, M. H. (2015). Training network administrators in a game-like environment. Journal of Network and Computer Applications, 53, 14-23.
+> * Babcock, C. (2017, October). Developing a Help Desk Board Game. In Proceedings of the 2017 ACM Annual Conference on SIGUCCS (pp. 139-144). ACM.
 > * Boden, R., & Nedeva, M. (2010). Employing discourse: universities and graduate ‘employability’. Journal of Education Policy, 25(1), 37-54.
 > * Bridgstock, R. (2009). The graduate attributes we’ve overlooked: Enhancing graduate employability through career management skills. Higher Education Research & Development, 28(1), 31-44.
 > * Celikoglu, H. B., Haddad, J., Han, K., & Lebacque, J. P. (2018). Special Issue on Advances in Modeling, Simulation and Optimization of Dynamic Network Traffic. Transportation Research Part C: Emerging Technologies, 95, 442-444.
+> * Jing, S., & Qi, Q. (2015, November). Study on Network Engineering Course Cases Based on Campus Network Platform. In Information Technology in Medicine and Education (ITME), 2015 7th International Conference on (pp. 601-604). IEEE.
 > * Joyce, D. L., Lahr, B. D., Maltais, S., Said, S. M., Stulak, J. M., Nuttall, G. A., & Joyce, L. D. (2018). Integration of simulation components enhances team training in cardiac surgery. The Journal of thoracic and cardiovascular surgery, 155(6), 2518-2524.
 > * Lathrop, S. D., Trent, S., & Hoffman, R. (2016). Applying human factors research towards cyberspace operations: a practitioner’s perspective. In Advances in Human Factors in Cybersecurity (pp. 281-293). Springer, Cham.
 > * Markes, I. (2006). A review of literature on employability skill needs in engineering. European Journal of Engineering Education, 31(6), 637-650.
@@ -243,3 +245,4 @@ APA Citation
 > * Ramadi, E., Ramadi, S., & Nasr, K. (2016). Engineering graduates’ skill sets in the MENA region: a gap analysis of industry expectations and satisfaction. European Journal of Engineering Education, 41(1), 34-52.
 > * Ruiz-Martinez, A., Pereniguez-Garcia, F., Marin-Lopez, R., Ruiz-Martínez, P. M., & Skarmeta-Gomez, A. F. (2013). Teaching advanced concepts in computer networks: Vnuml-um virtualization tool. IEEE Transactions on Learning Technologies, 6(1), 85-96.
 > * Saunders, V., & Zuzel, K. (2010). Evaluating employability skills: Employer and student perceptions. Bioscience education, 15(1), 1-15.
+> * Zielke, M., Houston, S., Mancini, M. E., Hardee, G., Cole, L., Zakhidov, D., ... & Lewis, T. (2015, August). A serious-game framework to improve physician/nurse communication. In International Conference on Virtual, Augmented and Mixed Reality (pp. 337-348). Springer, Cham.
