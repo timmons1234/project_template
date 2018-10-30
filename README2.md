@@ -77,7 +77,9 @@ The field of Network Engineering is in need of new ways to train current and fut
 
 Why is there a skill gap?
 
-How do we train new engineers? How do we increase the skill level of current engineers?
+How do we train new engineers? 
+
+How do we increase the skill level of current engineers?
 
 How do we create an environment that strengthens new candidates prior to entering the workforce?
 
@@ -86,9 +88,7 @@ How do we create an environment that strengthens new candidates prior to enterin
 
 Qualitative Research Method Approach
 
-Review the existing research and examine the current market
-
-Review off the shelf software and simulators as viable training material
+Perform data collection through literature review, examining the current market, reviewing off the shelf software/simulators to uncover a potentially new way to train network engineers.  This data will then be compared to personal experiences and the experience of others in the field to determine viability.
 
 Examine future technologies as solutions to bridge the skill gap
 
