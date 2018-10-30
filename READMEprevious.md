@@ -69,3 +69,95 @@ APA Citation
 > * Saunders, V., & Zuzel, K. (2010). Evaluating employability skills: Employer and student perceptions. Bioscience education, 15(1), 1-15.
 
 
+## FrameWork
+
+Introduction
+
+
+General
+
+Why there's a skill gap
+> * Education gap - How do we educate people about these concepts
+> * Skill development - How do we cultivate talent
+> * Technical barrier to entry – How do we provide technical resources
+
+Breadth of general knowledge needed, vs depth of knowledge in specific areas 
+> * knowing supplemental information about Linux vs knowing the specifics of the application to support a system you don't run
+> * Unskilled management and how we integrate skilled engineers 
+>> * managers who are either non-technical, or have aging skills need an understanding of deeply technical material in order to manage well
+> * Cross roles between technical and administrative
+
+Cultivating an engineer mentality
+> * Encouraging new engineers to take a holistic, deeper view of the work
+> * Cultivating a deeper understanding of the workflow and process
+> * Cultivating precision of action and avoiding live mistakes
+
+How current education does not support filling these roles
+> * Certifications focus on outdated concepts, tests knowledge not needed for workers
+> * Educational curriculum does not keep pace with industry standards, teaches students concepts which will be overwritten by tribal process
+> * Employers focus on the wrong concepts for good engineers
+>> * Unrealistic years of experience, certifications which are outside the reach of new workers, limited stratification of available positions
+
+How we bring more people into the field
+> * Technical academies
+>> * Cisco academy – feeder process to TAC
+> * Expos, live demonstrations, reducing barrier to entry, 
+>> * Companies sponsored training material (cisco learning network)
+> * Paid internships, junior positions, and direct from college placement
+>> * Focus on junior positions where we encourage mentorship and active learning
+
+Network
+
+Developing CORE skills. (green engineers come in with little to no skills)
+> * Assessing core skills, green engineers come with little to no skills. 
+>> * How do we define where to start?
+> * Simulation as a learning medium
+>> * Simulated learning environments with learning tasks
+> * Simulators for development and validation of core concepts
+>> * Simulators as design validation
+
+Developing a curriculum from apprentice to journeyman 
+> * Establishing markers for advancement
+> * Define areas for mentor / mentee relationships
+> * How do we support an apprentice type model when there's already a deep workload?
+
+The continual shifting paradigm of networking
+> * How you support continual education to match continual paradigm shift?
+> * Clear markers for technology support and adoption
+> * Are these roles rolled into the existing engineer or do they facilitate creating new teams?
+
+No more back of house engineers
+> * The role of network engineer has become more social over time
+> * Tempering the business needs against deep technical aptitude
+> * ◦Technology use to convey high level concepts as a bridge builder
+>> * Visio, documentation, etc.
+
+The shift to pure automation
+> * Investigate if we should retool. Green engineers could be trained directly into next-gen networking
+> * Does this create a new skill gap within the existing workforce? 
+> * Ex bare metal to vmware, analog phones to voip
+> * How do you retrain old engineers?
+
+Next Gen
+New technology encourages new ways to build our electronic systems
+> * Revamping old designs to take on new concepts
+> * Current curriculum teaches concepts which do not match new concepts
+> * New technology forces engineers into new hybrid roles
+
+New software gives options on how to handle traffic
+> * Analytic software gives deeper view into existing traffic
+> * Understanding traffic flow leads to better design
+> * Push towards automation reduces need of the cognitive load on workers
+
+SDN is the future. reduces man power, gives further insight into application, provides built in automation
+> * SDN reduces knowledge needed for the field, green engineers learn simpler concepts and start work faster
+> * Does this create a new skill gap where workers lose needed engineering skills
+> * If so, can we define tiered service based on knowledge and experience? How do we bridge the gap to allow tier transfer? 
+
+Role of next gen technology in relation to hostile actors
+> * Security focus on automated threat posturing
+> * Next gen appliances look at client identification and heuristics
+> * Analytic software identifies breeches faster than before
+
+Conclusion
+
