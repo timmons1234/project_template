@@ -83,6 +83,7 @@ How do we increase the skill level of current engineers?
 
 How do we create an environment that strengthens new candidates prior to entering the workforce?
 
+Can Modeling and Simulation Techniques be used in training network engineers?
 
 ## Research Method
 
@@ -95,7 +96,7 @@ Examine future technologies as solutions to bridge the skill gap
 
 ## Hypotheses
 
-There is a mismatch between the skills needed in the workplace and the skills taught to workforce candidates (i.e. students, those changing careers etc.)
+There is a mismatch between the skills needed in the workplace and the skills taught to workforce candidates (i.e. students, those changing careers etc.).
 
 Purpose driven curriculum allows engineers in the workforce to maintain and improve their skills
 
@@ -198,7 +199,7 @@ Conclusion
 
 ## Plan of Attack for rest of Semester
 
-1) Review more literature 
+1) ~~Review more literature ~~ 
 2) Organize and write results
 3) …
 4) Profit
