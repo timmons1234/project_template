@@ -121,7 +121,7 @@ The implementation of future network technologies (i.e. SDN) changes the skills 
 
 ## Plan of Attack for rest of Semester
 
-1) ~~Review more literature ~~ 
+1) ~~Review more literature~~ 
 2) Organize and write results
 3) …
 4) Profit
