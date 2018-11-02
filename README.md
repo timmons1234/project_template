@@ -5,6 +5,13 @@
 > * Project Title: Skill gap in Network Engineering
 
 
+## Presentation Video
+
+[Official 8 min version](https://youtu.be/9aHRBninn54)
+
+[Director's Cut 11 min version](https://youtu.be/bjcxJvHLhS8)  In reality I jsut went over but I figured I'd still put it up as I went through all that work to get it done, and trust me I had some issues...
+
+
 ## Topic
 
 The skill gap in Network Engineering
