@@ -161,6 +161,8 @@ APA Citation
 > * Bridgstock, R. (2009). The graduate attributes we’ve overlooked: Enhancing graduate employability through career management skills. Higher Education Research & Development, 28(1), 31-44.
 > * Celikoglu, H. B., Haddad, J., Han, K., & Lebacque, J. P. (2018). Special Issue on Advances in Modeling, Simulation and Optimization of Dynamic Network Traffic. Transportation Research Part C: Emerging Technologies, 95, 442-444.
 > * Goodwin, M. S., Wiltshire, T., & Fiore, S. M. (2015, August). Applying research in the cognitive sciences to the design and delivery of instruction in virtual reality learning environments. In International Conference on Virtual, Augmented and Mixed Reality (pp. 280-291). Springer, Cham.
+> * Gullu, H., & Delialioglu, O. (2018). The Effect of Computer Network Simulators on Students’ Motivation and Learning. Journal of Learning and Teaching in Digital Age (JOLTIDA), 3(2), 12-21.
+> * Gusev, M., Ristov, S., & Donevski, A. (2014, April). Integrating practical CISCO CCNA courses in the Computer Networks' curriculum. In Global Engineering Education Conference (EDUCON), 2014 IEEE (pp. 499-506). IEEE.
 > * Jing, S., & Qi, Q. (2015, November). Study on Network Engineering Course Cases Based on Campus Network Platform. In Information Technology in Medicine and Education (ITME), 2015 7th International Conference on (pp. 601-604). IEEE.
 > * Joyce, D. L., Lahr, B. D., Maltais, S., Said, S. M., Stulak, J. M., Nuttall, G. A., & Joyce, L. D. (2018). Integration of simulation components enhances team training in cardiac surgery. The Journal of thoracic and cardiovascular surgery, 155(6), 2518-2524.
 > * Lathrop, S. D., Trent, S., & Hoffman, R. (2016). Applying human factors research towards cyberspace operations: a practitioner’s perspective. In Advances in Human Factors in Cybersecurity (pp. 281-293). Springer, Cham.
@@ -169,6 +171,7 @@ APA Citation
 > * Mehrotra, S., Gandhi, A., & Sahoo, B. K. (2013). Estimating India’s Skill gap on realistic basis for 2022. Economic and Political Weekly, 48(13), 102-111.
 > * Nair, C. S., Patil, A., & Mertova, P. (2009). Re-engineering graduate skills–a case study. European journal of engineering education, 34(2), 131-139.
 > * Ramadi, E., Ramadi, S., & Nasr, K. (2016). Engineering graduates’ skill sets in the MENA region: a gap analysis of industry expectations and satisfaction. European Journal of Engineering Education, 41(1), 34-52.
+> * Ristov, S., Spasov, D., & Gusev, M. (2015, March). Successful integration of practical Cisco CCNA in the Computer Networks Design course. In Global Engineering Education Conference (EDUCON), 2015 IEEE (pp. 694-703). IEEE.
 > * Ruiz-Martinez, A., Pereniguez-Garcia, F., Marin-Lopez, R., Ruiz-Martínez, P. M., & Skarmeta-Gomez, A. F. (2013). Teaching advanced concepts in computer networks: Vnuml-um virtualization tool. IEEE Transactions on Learning Technologies, 6(1), 85-96.
 > * Saunders, V., & Zuzel, K. (2010). Evaluating employability skills: Employer and student perceptions. Bioscience education, 15(1), 1-15.
 > * Zielke, M., Houston, S., Mancini, M. E., Hardee, G., Cole, L., Zakhidov, D., ... & Lewis, T. (2015, August). A serious-game framework to improve physician/nurse communication. In International Conference on Virtual, Augmented and Mixed Reality (pp. 337-348). Springer, Cham.
