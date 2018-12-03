@@ -163,7 +163,8 @@ APA Citation
 > * Babcock, C. (2017, October). Developing a Help Desk Board Game. In Proceedings of the 2017 ACM Annual Conference on SIGUCCS (pp. 139-144). ACM.
 > * Boden, R., & Nedeva, M. (2010). Employing discourse: universities and graduate ‘employability’. Journal of Education Policy, 25(1), 37-54.
 > * Bridgstock, R. (2009). The graduate attributes we’ve overlooked: Enhancing graduate employability through career management skills. Higher Education Research & Development, 28(1), 31-44.
-> * Celikoglu, H. B., Haddad, J., Han, K., & Lebacque, J. P. (2018). Special Issue on Advances in Modeling, Simulation and Optimization of Dynamic Network Traffic. Transportation Research Part C: Emerging Technologies, 95, 442-444.
+> * Celikoglu, H. B., Haddad, J., Han, K., & Lebacque, J. P. (2018). Special Issue on Advances in Modeling, Simulation and Optimization of Dynamic Network Traffic. Transportation Research Part C: Emerging Technologies, 95, 442-444. 
+> * de Sousa Jr, R. T., De Oliveira, A. C., Tsujiguchi, R., Pacheco, V. M., Abbas, C. J. B., Puttini, R. S., & de Oliveira Albuquerque, R. (2003). Implementation of Diffserv/MPLS QOS Laboratory and the WWW Application Allowing its Usage as a Virtual Learning Environment. In ICWI (pp. 1072-1076).
 > * Goodwin, M. S., Wiltshire, T., & Fiore, S. M. (2015, August). Applying research in the cognitive sciences to the design and delivery of instruction in virtual reality learning environments. In International Conference on Virtual, Augmented and Mixed Reality (pp. 280-291). Springer, Cham.
 > * Gullu, H., & Delialioglu, O. (2018). The Effect of Computer Network Simulators on Students’ Motivation and Learning. Journal of Learning and Teaching in Digital Age (JOLTIDA), 3(2), 12-21.
 > * Gusev, M., Ristov, S., & Donevski, A. (2014, April). Integrating practical CISCO CCNA courses in the Computer Networks' curriculum. In Global Engineering Education Conference (EDUCON), 2014 IEEE (pp. 499-506). IEEE.
