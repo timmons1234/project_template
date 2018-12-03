@@ -178,4 +178,5 @@ APA Citation
 > * Ristov, S., Spasov, D., & Gusev, M. (2015, March). Successful integration of practical Cisco CCNA in the Computer Networks Design course. In Global Engineering Education Conference (EDUCON), 2015 IEEE (pp. 694-703). IEEE.
 > * Ruiz-Martinez, A., Pereniguez-Garcia, F., Marin-Lopez, R., Ruiz-Martínez, P. M., & Skarmeta-Gomez, A. F. (2013). Teaching advanced concepts in computer networks: Vnuml-um virtualization tool. IEEE Transactions on Learning Technologies, 6(1), 85-96.
 > * Saunders, V., & Zuzel, K. (2010). Evaluating employability skills: Employer and student perceptions. Bioscience education, 15(1), 1-15.
+> * Xia, F., Yang, L. T., Wang, L., & Vinel, A. (2012). Internet of things. International Journal of Communication Systems, 25(9), 1101-1102.
 > * Zielke, M., Houston, S., Mancini, M. E., Hardee, G., Cole, L., Zakhidov, D., ... & Lewis, T. (2015, August). A serious-game framework to improve physician/nurse communication. In International Conference on Virtual, Augmented and Mixed Reality (pp. 337-348). Springer, Cham.
