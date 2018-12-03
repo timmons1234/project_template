@@ -135,13 +135,8 @@ The implementation of future network technologies (i.e. SDN) changes the skills 
 1) ~~Review more literature~~ 
 2) Organize and write results
 3) …
-4) Profit
+4) Prent and Push to Github
 
-Week 11 (Oct 29) - Week 1 writing  
-Week 12 (Nov 5)  - Week 2 writing  
-Week 13 (Nov 12) - Week 3 writing  
-Week 14 (Nov 19) - Editing - Eating Turkey  
-Week 15 (Nov 26) - Chill out / Go to I/ITSEC  
 Exam Period (Dec 4)    Final Project Presentations  
 
 
@@ -151,6 +146,8 @@ Exam Period (Dec 4)    Final Project Presentations
 Comprehensive Literature Review
 
 Paper on Skill Gap in Network Engineering
+
+Simulation Curriculum Presentation
 
 
 ## References
