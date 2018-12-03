@@ -41,11 +41,11 @@ The field of Network Engineering, which encompasses roles of network administrat
 
 This literautre review will delve into reasons for this skill gap in the network engineering field, current training paradigms for network engineering students, ways that this training can be improved with Modeling and Simulation techniques and will provide an example of a new networking technology and how M&S techniques could be implemented in this training.
  
-Reasons for the Skill Gap
+## Reasons for the Skill Gap
 
 The Skill Gap for the Network Engineering field has been influenced by the contracting culture that has taken over many industries. The contracting culture referenced refers to companies hiring SMEs on a project by project basis due in part to the high salaries that SMEs demand and not taking a yearly payroll hit if they were full time employees. When contracting like this occurs there is little to no knowledge transfer from these experts to company personnel.  Businesses expect employees to rise to the skill level of these SMEs but there is not the proper training for this to occur as the current training is lacking for maintaining and improving skills in network engineering.
  
-Current training
+## Current training
 
 Current training practices revolve around the higher education setting where universities and similar institutions are tasked with providing marketable skill sets to students for entering their desired industry after degree completion. However, this brings up the question of what skills should a newly graduated student possess when entering the workforce? Whose job is it to train a new employee? What is the best way to train someone on the skills needed for Network and Security Engineering?
 
@@ -58,7 +58,7 @@ Institutions of higher education are trying to implement change to more align th
 
 To facilitate this dynamic environment, new training methods that are equally dynamic need to be employed and the use of Modeling and Simulation based techniques can fill this training need.  M&S can be used to customize a training program to a company’s specific architecture, to the skills that a company wants to promote and can be made to accommodate the learning style of the trainee.  This helps to create tools that are easy to use and help promote knowledge transfer to increase personnel skill levels (Adithya et al., 2018; Lathrop, Trent & Hoffman, 2016).
  
-M&S for Training
+## M&S for Training
 
 Simulation based techniques allows teaching methods to branch away from tradition using methods described by Jing and Qi (2015) as Case Teaching.  In traditional teaching the “main teaching modes are “teacher talking” and “students listening"(Jing and Qi (2015) creating an environment where the student is passive in their learning (Goodwin, Wiltshire & Fiore, 2015).  Case teaching however is focused on “training students' ability to utilize knowledge to solve practical problems” (Jing and Qi, 2015) in an active learning way. To extend Case teaching to networking training requires a training medium that can be configured for different scenarios and potentially be able to mimic a company’s network infrastructure. The maleability of a training medium is needed because one tenant of Case study learning is that the examples provided to the students must be based on real examples and the examples should be practical not theoretical in nature (Jing and Qi, 2015).
 
@@ -71,7 +71,7 @@ In the literature some authors have made a distinction between gamification and 
 In the area of gamification/Educational Game, pioneering work has been done by the Aslan et al, when the “Network Management Game (NMG)” was created to train network administrators. The basis for NMG was other simulation based games such as flight simulators and the games goal was to “maximize the network's throughput by manipulation link weights” (Arslan et al, 2013). Results showed that training on the system helped to improve a player’s ability to optimize a network through the manipulation of link weights. While not networking based, other areas have also benefited from gamification/education game to include a nursing/physician game to help improve communication skills (Zielke et al., 2015) and a board game to teach help desk troubleshooting skills (Babcock, 2017). These show that learning through gaming is viable option for teaching new skills and one that is capable of being used as a form of training in the field of network engineering.
  
  
-Future Network Technology Training Proposal
+## Future Network Technology Training Proposal
  
 The use of virtual and game like environments, based on a review of the literature, have the ability to improve networking skills with the proper implementation. 
  
@@ -86,22 +86,19 @@ The next question to ask to answer is how the training will be accessed, i.e. on
 Goodwin et al.,2015 provides more information on the SEEL (Structure Enactive Engagement in Learning) strategy for implementation of virtual based learning.
 
  
-Conclusion
+## Conclusion
 
 The field of Network Engineering is in need of new ways to train current and future practitioners to be able to maintain skill levels, increase skills levels and train on new technologies. Current classroom based teacher centered training with limited interaction by students does not lend itself to the changing networking field and is why simulation based techniques have been proposed. Through the use of virtual environments or gamification a training system that allows custom scenarios to be developed, instructor defined difficulty and training in a risk free space can be created to allow for more immersive and retentive training. SDN is a new networking technology that would benefit from training in a virtual/educational game environment. Care must be taken when creating these education games to ensure the game aspect does not outweigh the knowledge transfer but when correctly gaming can provide a novel way to learn material that is more engaging and even fun than traditional training.
 
 
 ## Research Questions
 
-Why is there a skill gap?
+Why is there a Network Engineering skill gap?
 
-How do we train new engineers? 
+How can we reduce the gap?
 
-How do we increase the skill level of current engineers?
+Does changing technology make the engineering skill gaps a temporary problem? 
 
-How do we create an environment that strengthens new candidates prior to entering the workforce?
-
-Can Modeling and Simulation Techniques be used in training network engineers?
 
 ## Research Method
 
@@ -121,11 +118,11 @@ Purpose driven curriculum allows engineers in the workforce to maintain and impr
 The implementation of future network technologies (i.e. SDN) changes the skills needed in the Network Engineering workforce.
 
 
-## Preliminary Framework/Setup
+## October presentation Deliverables
 
 [Skill Gap Paper Outline](https://docs.google.com/document/d/1qnykA4bX6GR00LDDm3unroJ_Sqh_qg1R_ERAKJb6xvc/)
 
-[Skill Gap Presentation](https://docs.google.com/presentation/d/187CWELg-x_sRPx2OVyKsh6Ks-HDG2r20qrwPFcjfWFk/)
+[October Skill Gap Presentation](https://docs.google.com/presentation/d/187CWELg-x_sRPx2OVyKsh6Ks-HDG2r20qrwPFcjfWFk/)
 
 [Draft Paper on Skill Gap](https://docs.google.com/document/d/1zfkmtImKdjRcJ1hVtpY5MguS2-UaO9kepmf1dMfdhL8/edit)
 
@@ -141,13 +138,15 @@ Exam Period (Dec 4)    Final Project Presentations
 
 
 
-## Deliverables
+## December Presentation Deliverables
 
-Comprehensive Literature Review
+[Comprehensive Literature Review](https://docs.google.com/spreadsheets/d/1r-fpGGPNDIXqSgkA5TN_5U5xvXFC6ivaBi4GJLT3lKY/)
 
-Paper on Skill Gap in Network Engineering
+[Paper on Skill Gap in Network Engineering](https://docs.google.com/document/d/1ZpOihtd1aXPAaZ3t4SXo1Ey2hSl73uFNwA1KjEqlwr8/)
 
-Simulation Curriculum Presentation
+[Simulation Curriculum Presentation](https://docs.google.com/presentation/d/1slqGrOiYpYb3L9TJyOXnotvWb-RVscZs4MevTKL57Ic/)
+
+[December Presentation](https://docs.google.com/presentation/d/1-T34IT2rdRWLEXzFs0bgskPt3ByC1fegPEChn2DUAgI/)
 
 
 ## References
