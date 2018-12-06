@@ -5,26 +5,26 @@
 > * Project Title: Skill gap in Network Engineering
 
 
-## Final Presentation Video
+# Final Presentation Video
 
 
 
-## Midterm Presentation Video
+# Midterm Presentation Video
 
 [Official 8 min version](https://youtu.be/9aHRBninn54)
 
 [Director's Cut 11 min version](https://youtu.be/bjcxJvHLhS8)  In reality I jsut went over but I figured I'd still put it up as I went through all that work to get it done, and trust me I had some issues...
 
 
-## Topic
+# Topic
 
 The skill gap in Network Engineering
 
-## Purpose Statement
+# Purpose Statement
 
 The purpose of this study is to understand factors that have contributed to the skill gap in Network Engineering for individuals new to the field (i.e. recent university graduates) and those currently working in the field along with determining if Modeling and Simulation training techniques can be implemented in a way to decrease the skill gap.  
 
-## Introduction
+# Introduction
 
 The field of Network Engineering is at a crossroad: highly skilled personnel are needed but there is a lack of personnel who possesses this depth of knowledge available.
 
@@ -89,7 +89,9 @@ The field of Network Engineering is in need of new ways to train current and fut
 
 
 
-## Research Method
+
+
+# Research Method
 
 Qualitative Research Method Approach
 
@@ -98,7 +100,7 @@ Perform data collection through literature review, examining the current market,
 Examine future technologies as solutions to bridge the skill gap
 
 
-## Hypotheses
+# Hypotheses
 
 There is a mismatch between the skills needed in the workplace and the skills taught to workforce candidates (i.e. students, those changing careers etc.).
 
@@ -107,7 +109,7 @@ Purpose driven curriculum allows engineers in the workforce to maintain and impr
 The implementation of future network technologies (i.e. SDN) changes the skills needed in the Network Engineering workforce.
 
 
-## October presentation Deliverables
+# October presentation Deliverables
 
 [Skill Gap Paper Outline](https://docs.google.com/document/d/1qnykA4bX6GR00LDDm3unroJ_Sqh_qg1R_ERAKJb6xvc/)
 
@@ -116,7 +118,7 @@ The implementation of future network technologies (i.e. SDN) changes the skills 
 [Draft Paper on Skill Gap](https://docs.google.com/document/d/1zfkmtImKdjRcJ1hVtpY5MguS2-UaO9kepmf1dMfdhL8/edit)
 
 
-## Plan of Attack for rest of Semester
+# Plan of Attack for rest of Semester
 
 1) ~~Review more literature~~ 
 2) Organize and write results
@@ -127,7 +129,7 @@ Exam Period (Dec 4)    Final Project Presentations
 
 
 
-## December Presentation Deliverables
+# December Presentation Deliverables
 
 [Comprehensive Literature Review](https://docs.google.com/spreadsheets/d/1r-fpGGPNDIXqSgkA5TN_5U5xvXFC6ivaBi4GJLT3lKY/)
 
@@ -138,7 +140,7 @@ Exam Period (Dec 4)    Final Project Presentations
 [December Presentation](https://docs.google.com/presentation/d/1-T34IT2rdRWLEXzFs0bgskPt3ByC1fegPEChn2DUAgI/)
 
 
-## References
+# References
 
 APA Citation
 
