@@ -140,7 +140,9 @@ Exam Period (Dec 4)    Final Project Presentations
 [December Presentation](https://docs.google.com/presentation/d/1-T34IT2rdRWLEXzFs0bgskPt3ByC1fegPEChn2DUAgI/)
 
 
-The field of Network Engineering is at a crossroads as this paper has discussed where there are not enough skilled personnel to meet the current demand.  To bridge the skill gap simulation based training techniques were suggested along with changes  to the culture of the workforce that changes in the skills repertoire demand.  In the end, the coming of new technology such as Software Defined Networking and the different set of skills that this new technology requires has the potential to make this skills gap temporary.  New engineers would only need to learn the new skills associated with SDN and not have to worry about skills from previous technology where the skill gap is.  Network Engineering is indeed at at least one crossroad with another on the horizon.
+# Learning Theory
+
+
 
 # Conclusion and Future Work
 
