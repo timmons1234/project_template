@@ -7,7 +7,9 @@
 
 # Final Presentation Video
 
-[Final Presentation Video](https://youtu.be/Bx9ezp4-ZXY)
+[Final Presentation Video](https://youtu.be/Bx9ezp4-ZXY) 
+
+[Long Presentation Video](https://youtu.be/DzhKU3ZVHKw) In case the presentation needed to be 15 minutes.
 
 # Midterm Presentation Video
 
