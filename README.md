@@ -131,7 +131,7 @@ Exam Period (Dec 4)    Final Project Presentations
 
 # December Presentation Deliverables
 
-[Comprehensive Literature Review](https://docs.google.com/spreadsheets/d/1r-fpGGPNDIXqSgkA5TN_5U5xvXFC6ivaBi4GJLT3lKY/)
+[Literature Review Outline](https://docs.google.com/spreadsheets/d/1r-fpGGPNDIXqSgkA5TN_5U5xvXFC6ivaBi4GJLT3lKY/)
 
 [Paper on Skill Gap in Network Engineering](https://docs.google.com/document/d/1ZpOihtd1aXPAaZ3t4SXo1Ey2hSl73uFNwA1KjEqlwr8/)
 
