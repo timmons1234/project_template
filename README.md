@@ -155,8 +155,10 @@ APA Citation
 
 > * Adithya, P. C., Pandey, S., Caballero, J. A., Yürür, Ö., & Moreno, W. A. (2018). Systems Engineering Framework to Design a Laboratory Course: A Case Study.
 > * Andrews, J., & Higson, H. (2008). Graduate employability,‘soft skills’ versus ‘hard’business knowledge: A European study. Higher education in Europe, 33(4), 411-422.
+> * Araujo, R. T. S., Araujo, M. E. S., Medeiros, F. N. S., Oliveira, B. F. C., & Araujo, N. M. S. (2016). Interactive Simulator for Electric Engineering Training. IEEE Latin America Transactions, 14(5), 2246-2252.
 > * Arslan, E., Yuksel, M., & Gunes, M. H. (2015). Training network administrators in a game-like environment. Journal of Network and Computer Applications, 53, 14-23.
 > * Babcock, C. (2017, October). Developing a Help Desk Board Game. In Proceedings of the 2017 ACM Annual Conference on SIGUCCS (pp. 139-144). ACM.
+> * Batista, D. M., Blair, G., Kon, F., Boutaba, R., Hutchison, D., Jain, R., ... & Rothenberg, C. E. (2015). Perspectives on software-defined networks: interviews with five leading scientists from the networking community. Journal of Internet Services and Applications, 6(1), 22.
 > * Boden, R., & Nedeva, M. (2010). Employing discourse: universities and graduate ‘employability’. Journal of Education Policy, 25(1), 37-54.
 > * Bridgstock, R. (2009). The graduate attributes we’ve overlooked: Enhancing graduate employability through career management skills. Higher Education Research & Development, 28(1), 31-44.
 > * Celikoglu, H. B., Haddad, J., Han, K., & Lebacque, J. P. (2018). Special Issue on Advances in Modeling, Simulation and Optimization of Dynamic Network Traffic. Transportation Research Part C: Emerging Technologies, 95, 442-444. 
