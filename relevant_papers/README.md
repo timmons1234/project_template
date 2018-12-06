@@ -84,7 +84,7 @@ Ruiz-Martinez et al. provides a article on how the VNUML-UM tool can be used to 
 The paper was written in an easy to read manner and concepts were adequatly explained.  The one issue with the paper was that the experiment section detailing differnet student population years could have been written more clearly to allow for better comparison of the methods.
 
 #### Reproducibility
-The authors describe the testing performed and with training on how to use hteystem the testing could be repeated.
+The authors describe the testing performed and with training on how to use the system the testing could be repeated.
 
 #### Rating
 3.5
@@ -118,3 +118,31 @@ Experiments were not performed for this paper as it was a exposition about the d
 
 #### Explanation of Rating
 I gave the article a 3.0 because overall it was a good paper that was relevant to our topic and provided background into causes for skill gaps in engineering that can be applied to Network Engineering.  
+
+
+
+
+#### Paper 5
+> * Title: The Effect of Computer Network Simulators on Students' Motivation and Learning
+> * Author: Halil Gullu and Omer Delialioglu
+
+
+#### Summary:
+The purpose of this paper was to describe how motivation and learning are affected by using network simulators to train networking concepts.  The authors implementation of the network simulator was to have the students use the simualtor immediately after a lesson to practice and reinforce the concepts taught in the lesson.  Interviews from the students showed that they liked the ability to practice lessons multiple times until they felt comfortable with the material and how the visuals of the simulation helped in learning the material.  At the end the authors believed that the simulator helped improve the motivation to learn concepts and helped to improve learning of networking concepts. 
+
+#### Executive Summary:  
+
+Gullu and Delialioglu present a paper that describes students experiences with a Network Simulator and how the simulator aided in the motivation to learn networking concepts and in the learning of the networking concepts.
+
+
+#### Clarity of Exposition
+The paper was written in a manner that was easy to understand the concepts and not overly burdened with jargon.  The one issue I had with the paper is that at times the sentances can read a bit funny and this may be due a translation issue or writing the paper with english as a second language.  However, this did not detract from the authors explaining their ideas.
+
+#### Reproducibility
+The authors desdribed in detail the simulator used but did not go into detail on lesson plans.  However, these could probably be gotten from the authors if requested.
+
+#### Rating
+3.5
+
+#### Explanation of Rating
+I gave the article a 3.5 because overall it was a good paper that was relevant to our topic and provided informaiton on the benefits of using network simulators to train networking concepts.  
