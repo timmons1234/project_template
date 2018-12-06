@@ -140,6 +140,17 @@ Exam Period (Dec 4)    Final Project Presentations
 [December Presentation](https://docs.google.com/presentation/d/1-T34IT2rdRWLEXzFs0bgskPt3ByC1fegPEChn2DUAgI/)
 
 
+The field of Network Engineering is at a crossroads as this paper has discussed where there are not enough skilled personnel to meet the current demand.  To bridge the skill gap simulation based training techniques were suggested along with changes  to the culture of the workforce that changes in the skills repertoire demand.  In the end, the coming of new technology such as Software Defined Networking and the different set of skills that this new technology requires has the potential to make this skills gap temporary.  New engineers would only need to learn the new skills associated with SDN and not have to worry about skills from previous technology where the skill gap is.  Network Engineering is indeed at at least one crossroad with another on the horizon.
+
+# Conclusion and Future Work
+
+The topic of the skill gap in Network Engineering is vast in scope and has only beem briefly touched on in the discussions on this page and the linked written documents.  In the Literature Review and Skill Gap Paper it was seen that the skill gap is multifacited with causes ranging from a disconnect between academia and industry, to the long lead times for curriculum to change in certificaiton courses to the speed at which networking technolgy itself is changing.  This lead to the proposal of using Modeling and Simulation based techniques to augment or replace traditional training methods for teaching networking principles and concepts.  A review of the literature showed examples of simulation and gamification being used to make difficult networking concepts more understandable and less abstract.  The focus was then placed on using the simulation software Cisco Virtual Internet Routing Lab to create curriculum examples for the networking concepts of configuration using Multi Protocol Labeling Swtiching to troubleshooting a provided network.  The efforts of a Literature Review, Skill Gap Paper and Simulation Curriculum are the works completed for this semester but that does not mean efforts could not continue into future semesters.
+
+An additional semester of effort on this topic would allow the expansion of the simulation curriclum to additional topcis and concepts.  Once a full set of labs for the simulation curriculum were complete they would be used in a Pilot Study to test their effectiveness for novice and expert learners.  The labs would be improved through an iterative process based on feedback from the subjects in the Pilot study.
+  
+An additional two semesters of effort on this topic would allow for the curricululm expansion and testing of the curriculum study descibed above and would also allow the analysis of the skill gap (i.e. the Skill Gap Paper) to be expanded and refined.  Expansion would come form interviews with other Network Engineers in the field and from the results of the Pilot Study described above.  This would provide different perspectives and insights into the problem that have the potential to lead to other causes, other potential solutions or to back up ideas already expressed.  The additioanl time would be used to edit and refine the scope and relevant parts of the paper in preparation for finalization.  
+
+
 # References
 
 APA Citation
