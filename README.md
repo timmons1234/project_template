@@ -139,6 +139,8 @@ Exam Period (Dec 4)    Final Project Presentations
 
 [December Presentation](https://docs.google.com/presentation/d/1-T34IT2rdRWLEXzFs0bgskPt3ByC1fegPEChn2DUAgI/)
 
+[Online December Presentation](https://docs.google.com/presentation/d/1oQPMa7TyoeN7ZJBlE00cinXvQAXEte0z5yA5N1GZBYw/edit#slide=id.p) Now with Jazz hands.  Version is essentailly the same just with a different background to spice it up for those viewing at home.
+
 
 # Learning Theory
 
