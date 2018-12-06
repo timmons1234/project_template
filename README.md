@@ -142,8 +142,17 @@ Exam Period (Dec 4)    Final Project Presentations
 [Online December Presentation](https://docs.google.com/presentation/d/1oQPMa7TyoeN7ZJBlE00cinXvQAXEte0z5yA5N1GZBYw/edit#slide=id.p) Now with Jazz hands.  Version is essentailly the same just with a different background to spice it up for those viewing at home.
 
 
-# Learning Theory
+# Learning Theory Concepts
 
+Below is an oultine of learning concepts exlored throughout the Literature Review and the Analsysis Paper.
+
+* Gamification of material to improve learning
+* Virtual Environments for immersive and hands on training.
+* Augmenting traditional training with hands on simulation examples
+* Motivation gained by using simulation for training
+* Teaching skills from the ground up to all new employees
+* Mentoring
+* Certificaiton stlye trainnig that focuses on teaching very specific skills
 
 
 # Conclusion and Future Work
